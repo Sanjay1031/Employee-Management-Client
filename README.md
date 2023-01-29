@@ -8,7 +8,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<h3 align="center">Employee Management App</h3>
+<h3 align="center">Employee Management Client</h3>
 
   <p align="center">
     The Employee Management App is a tool that supports the Human Resource teams to manage, connect and engage with employees  in today’s ‘remote-first’ world.
