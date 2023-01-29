@@ -8,16 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/lafleurss/employee-management-app">
-    <img src="resources/images/employee-logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Employee Management App</h3>
 
   <p align="center">
@@ -138,9 +128,9 @@ To stop either the local backend (the `sam local...` command) or local frontend 
 <!-- CONTACT -->
 ## Contact
 
-Shilpa Nair - [shilpa.sathya@gmail.com] shilpa.sathya@gmail.com
+Sanjay Tummalapalli - [sanjayt2021@gmail.com] sanjayt2021@gmail.com
 
-Project Link: [https://github.com/lafleurss/employee-management-app](https://github.com/lafleurss/employee-management-app)
+Project Link: [https://github.com/lafleurss/employee-management-app](https://github.com/sanjay/employee-management-client)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,7 +140,7 @@ Project Link: [https://github.com/lafleurss/employee-management-app](https://git
 
 * []() Nashville Software School for supporting me in my journey of lifelong learning
 * []() Instructors Andy Collins and Charlie Penner for their endless patience, wisdom and guidance
-* []() Teammates - Josh Taylor, Jack Siri, Sanjay T., Jesse Bass without whom this project would not be possible
+* []() Teammates - Josh Taylor, Jack Siri, Shilpa Nair, Jesse Bass without whom this project would not be possible
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,8 +160,8 @@ Project Link: [https://github.com/lafleurss/employee-management-app](https://git
 [license-url]: https://github.com/lafleurss/employee-management-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: resources/images/employee-management-client.png
-[architecture diagram]: resources/images/architecture_diagram.png
+[product-screenshot]: documents/AppScreenshot.png
+[architecture diagram]: documents/ArchitectureScreenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
