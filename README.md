@@ -130,7 +130,7 @@ To stop either the local backend (the `sam local...` command) or local frontend 
 
 Sanjay Tummalapalli - [sanjayt2021@gmail.com] sanjayt2021@gmail.com
 
-Project Link: [https://github.com/lafleurss/employee-management-app](https://github.com/sanjay/employee-management-client)
+Project Link: [https://github.com/sanjay1031/employee-management-app](https://github.com/sanjay/employee-management-client)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
