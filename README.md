@@ -40,7 +40,6 @@ Sanjay Tummalapalli - [sanjayt2021@gmail.com] sanjayt2021@gmail.com
 
 Project Link: [https://github.com/sanjay1031/employee-management-app](https://github.com/Sanjay1031/Employee-Management-Client)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
